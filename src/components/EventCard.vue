@@ -8,7 +8,7 @@
 export default {
   data() {
     return {
-      title: "Park Cleanup"
+      title: "Beach Cleanup"
     };
   }
 };
@@ -17,5 +17,6 @@ export default {
 <style lang="scss" scoped>
 h4 {
   color: green;
+  font-size: 30px;
 }
 </style>

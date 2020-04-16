@@ -1,10 +1,10 @@
 <template>
   <div>
     <h1>Event Listing</h1>
+    <EventCard />
     <router-link :to="{ name: 'event-show', params: { id: 1 } }"
       >Show event #1</router-link
     >
-    <EventCard />
   </div>
 </template>
 <script>
@@ -16,3 +16,9 @@ export default {
   }
 };
 </script>
+
+<style lang="scss">
+h1 {
+  font-size: 50px;
+}
+</style>
