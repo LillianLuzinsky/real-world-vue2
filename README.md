@@ -30,3 +30,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 1) How to build and run a VueCLI app with the command line
 2) Vue Router basics
+3) How to use redirect and alias in vue router
