@@ -34,3 +34,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 4) Dynamic Routes and history mode
 5) How to implement scope and global styles
 6) How to create nested components
+7) What are base components (icon or a submit button) and how to make them global by adding them in the main.js file
