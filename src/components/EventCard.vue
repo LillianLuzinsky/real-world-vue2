@@ -16,6 +16,6 @@ export default {
 
 <style lang="scss" scoped>
 h4 {
-  color: "green";
+  color: green;
 }
 </style>
