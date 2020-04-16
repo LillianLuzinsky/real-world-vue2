@@ -1,11 +1,21 @@
 <template>
-  <div></div>
+  <div>
+    <h4>{{ title }}</h4>
+  </div>
 </template>
 
 <script>
 export default {
-    
+  data() {
+    return {
+      title: "Park Cleanup"
+    };
+  }
 };
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+h4 {
+  color: "green";
+}
+</style>
