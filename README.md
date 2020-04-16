@@ -33,4 +33,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 3) How to use redirect and alias in vue router
 4) Dynamic Routes and history mode
 5) How to implement scope and global styles
-6) How to export/import the navbar
+6) How to create nested components
