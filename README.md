@@ -37,3 +37,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 7) What are base components (icon or a submit button) and how to make them global by adding them in the main.js file
 8) Automatic Global Registration
 9) What a slot is: the same button component can have different functionalities
+10) About Axios and API calls.
