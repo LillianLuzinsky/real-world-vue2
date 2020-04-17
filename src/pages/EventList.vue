@@ -2,9 +2,6 @@
   <div>
     <h1>Event Listing</h1>
     <EventCard />
-    <BaseIcon />
-    <BaseButton />
-    <BaseInput />
   </div>
 </template>
 <script>
