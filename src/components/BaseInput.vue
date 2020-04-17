@@ -1,6 +1,6 @@
 <template>
   <div>
-    Icon
+    Input
   </div>
 </template>
 
