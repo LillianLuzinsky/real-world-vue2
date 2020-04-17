@@ -17,12 +17,11 @@ export default {
       events: []
     };
   },
-
   created() {
     axios
       .get("http://localhost:3000/events") // Does a get request
       .then(response => {
-        this.data = response.data; // For now, logs out the response
+        this.events = response.data; // For now, logs out the response
       })
       .catch(error => {
         console.log("There was an error:", error.response); // Logs out the error
