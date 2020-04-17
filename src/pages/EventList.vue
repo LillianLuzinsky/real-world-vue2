@@ -6,6 +6,7 @@
 </template>
 <script>
 import EventCard from "@/components/EventCard.vue";
+// import axios from "axios";
 
 export default {
   components: {
